@@ -1,3 +1,6 @@
+# sql database
+*.sqlite
+
 # config file
 */config.py
 
